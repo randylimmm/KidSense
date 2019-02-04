@@ -2,7 +2,7 @@ package main.java.com.kidsense.nlptest;
 
 /**
  *
- * @author fernando
+ * @author EVERYONE
  */
 
 import opennlp.tools.tokenize.WhitespaceTokenizer;
