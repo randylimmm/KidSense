@@ -1,3 +1,4 @@
 # KidSense
-@Fernando
-Here's what i have done so far for censoring names and locations. Make sure to download the models labeled "en" at http://opennlp.sourceforge.net/models-1.5/ and put them in your C drive in a folder called "OpenNLP_models".
+@Angel
+
+I've completed most of the Feature Control UI Page. There's somethings left up to discussion that we could change, and some minor bugs to fix. For the most part, it's all working thougt.
